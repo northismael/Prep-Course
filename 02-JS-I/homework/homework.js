@@ -10,7 +10,7 @@ const nuevoNum = number = 9;
 const nuevoBool = boolean = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = (number, number) = (10, 5);
+const nuevaResta = (10 - 5);
 const nuevaMultiplicacion = (number, number) = (10, 40);
 const nuevoModulo = (number, number) = (21, 5);
 
@@ -33,12 +33,17 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
+
+function suma(caso, x, y) {
+  switch(caso) {
+  case `SUMA`:
+    return x + y
+  }
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
 }
+suma(`SUMA`, 3, 2)
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
