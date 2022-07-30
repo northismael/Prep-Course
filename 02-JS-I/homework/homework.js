@@ -39,10 +39,7 @@ const codigo = number = 21313066
 
 function suma(x, y) {
   return x + y + codigo
-  //switch(caso) {
-  //case `SUMA`:
-  //return x + y
-  //}
+
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
