@@ -33,39 +33,51 @@ function devolverString(str) {
   
 }
 
-const = (number, number) = (x, y)
+const x = number
+const y = number
+const codigo = number = 21313066
 
-function suma(caso, x, y) {
-  switch(caso) {
-  case `SUMA`:
-    return x + y
-  }
+function suma(x, y) {
+  return x + y + codigo
+  //switch(caso) {
+  //case `SUMA`:
+  //return x + y
+  //}
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
 }
-suma(`SUMA`, 3, 2)
-
 
 function resta(x, y) {
+  return x - y + codigo
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
 }
 
 function multiplica(x, y) {
+  return x * y + codigo
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
 }
 
 function divide(x, y) {
+  return x / y + codigo
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
 }
 
+const sonIguales = boolean 
+
 function sonIguales(x, y) {
+  switch (sonIguales) {
+    case x = y:
+    return true + codigo
+    default:
+      `No son iguales`
+  }
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
