@@ -33,6 +33,7 @@ function devolverString(str) {
   
 }
 
+const = (number, number) = (x, y)
 
 function suma(caso, x, y) {
   switch(caso) {
@@ -44,6 +45,7 @@ function suma(caso, x, y) {
   // Tu código:
 }
 suma(`SUMA`, 3, 2)
+
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
