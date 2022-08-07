@@ -26,11 +26,11 @@ const nuevoModulo = (number, number) = (21, 5);
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
-
+const str = string 
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+  return str + codigo
 }
 
 const x = number
@@ -43,6 +43,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
+  
 }
 
 
