@@ -27,6 +27,8 @@ const nuevoModulo = (number, number) = (21, 5);
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 const str = string 
+const devolverString = string
+
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
@@ -99,7 +101,14 @@ function tienenMismaLongitud(str1, str2) {
   
 }
 
+const num = number
 function menosQueNoventa(num) {
+  switch (menosQueNoventa) {
+    case num  90:
+    return `Tienen misma longitud` + codigo
+    default:
+      `No tienen la misma longitud`
+  }
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
