@@ -43,7 +43,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+
 }
 
 
@@ -83,7 +83,16 @@ function sonIguales(x, y) {
   
 }
 
+const str1 = string
+const str2 = string 
+
 function tienenMismaLongitud(str1, str2) {
+  switch (tienenMismaLongitud) {
+    case str1 = str2:
+    return `Tienen misma longitud` + codigo
+    default:
+      `No tienen la misma longitud`
+  }
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
