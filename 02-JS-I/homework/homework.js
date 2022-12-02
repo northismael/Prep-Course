@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = string =`Hola`;
+const nuevaString = string ='Hola';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = number = 9;
@@ -88,32 +88,17 @@ function sonIguales(x, y) {
 const str1 = string
 const str2 = string 
 
-function tienenMismaLongitud(str1, str2) {
-  switch (tienenMismaLongitud) {
-    case str1 = str2:
-    return `Tienen misma longitud` + codigo
-    default:
-      `No tienen la misma longitud`
-  }
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
   
-}
 
 const num = number
-function menosQueNoventa(num) {
-  switch (menosQueNoventa) {
-    case num  90:
-    return `Tienen misma longitud` + codigo
-    default:
-      `No tienen la misma longitud`
-  }
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
   
-}
+
 
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
